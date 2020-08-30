@@ -7,3 +7,6 @@ SO what are they?, Its easy
 They are a currency that are earned by reading our terms or our tutorials or purchasing our game and getting money
 
 This Project is also mit licensed but also protected in same place
+
+Want to improve it?
+Well you can : [![Run on Repl.it](https://repl.it/badge/github/itzweb/home)](https://repl.it/github/itzweb/home)
